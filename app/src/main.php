@@ -26,7 +26,7 @@
             <div class="banner">
                 <div class="row justify-content-center">
                     <div class="col-12 col-xl-10">
-                        <div class="lh-1 fs-30 font-kamerik fw-300">Looking to finance a <span class="fw-700">Business Vehicle?</span></div>
+                        <div class="lh-1 fs-30 font-kamerik fw-300">Looking to finance a <span class="fw-700">Machinery or Equipment?</span></div>
                         <div class="fs-80 fw-700 lh-1 pt-2 pb-5">Compare the lowest rates in the market with us today!</div>
                         <a href="#form" class="btn btn-gradient border-0 d-inline-flex rounded-6 text-white fw-600 py-3 px-md-5">
                             Compare Now
@@ -168,7 +168,7 @@
             <div class="container position-relative">
                 <div class="row align-items-center gx-xxl-5 gy-5 gy-xl-0">
                     <div class="col-lg-6">
-                        <div class="fs-30 font-kamerik text-light-grey text-center text-lg-start">Looking to finance a <span class="text-primary fw-700">Business Vehicle?</span></div>
+                        <div class="fs-30 font-kamerik text-light-grey text-center text-lg-start">Looking to finance a <span class="text-primary fw-700">Machinery or Equipment?</span></div>
                         <div class="fs-80 fw-700 lh-1 pt-3 pb-4 text-center text-lg-start">Compare the lowest rates in the market with us today!</div>
                         <div class="row pt-md-3 gy-3 gy-md-4">
                             <div class="col-12">
@@ -296,7 +296,7 @@
             <div class="container position-relative">
                 <div class="row align-items-center gx-xxl-5 gy-5 gy-xl-0">
                     <div class="col-lg-9">
-                        <div class="fs-30 font-kamerik text-light-grey text-center text-lg-start">Looking to finance a <span class="text-primary fw-700">Business Vehicle?</span></div>
+                        <div class="fs-30 font-kamerik text-light-grey text-center text-lg-start">Looking to finance a <span class="text-primary fw-700">Machinery or Equipment?</span></div>
                         <div class="fs-80 fw-700 lh-1 pt-3 text-center text-lg-start">Compare the lowest rates in the market with us today!</div>
                     </div>
                 </div>
@@ -638,8 +638,8 @@
             <div class="col-xl-6">
                 <div class="row justify-content-center align-items-center h-100">
                     <div class="col-lg-10 text-center py-5 py-md-7 px-4">
-                        <div class="text-white fs-64 lh-1 fw-500">Speak with a Business Vehicle Finance Expert Today!</div>
-                        <div class="text-white font-kamerik fs-20 py-5">Compare and save on your next business vehicle loan by speaking with our business loan experts. Our 30-second online application process only requires you to provide the details we truly need.</div>
+                        <div class="text-white fs-64 lh-1 fw-500">Speak with a Machinery Finance Expert Today!</div>
+                        <div class="text-white font-kamerik fs-20 py-5">Compare and save on your next machinery loan by speaking with our machinery finance experts. Our 30-second online application process only requires you to provide the details we truly need.</div>
                         <div class="text-center">
                             <a href="#form" class="btn btn-white border-0 d-inline-flex rounded-6 text-primary fw-600 py-3 px-md-5">
                                 Compare Now
