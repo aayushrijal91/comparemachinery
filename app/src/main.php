@@ -307,21 +307,21 @@
                                 <div class="fw-600 fs-32 text-primary mb-4 lh-1">What type of loan do you need?</div>
                                 <div class="row g-3">
                                     <div class="col-6 col-md text-center">
-                                        <a href="javascript:;" class="text-decoration-none py-lg-4 py-4 d-block box rounded-10 bg-opacity-25 bg-lightpurple text-primary buttongroupmirror" data-loan="Car Loan">
+                                        <a href="javascript:;" class="text-decoration-none py-lg-4 py-4 d-block box rounded-10 bg-opacity-25 bg-lightpurple text-primary buttongroupmirror" data-loan="Vehicle Loan">
                                             <?= renderImg("car-loan.png", 'lib') ?>
-                                            <div class="fw-500 mt-4">Car</div>
+                                            <div class="fw-500 mt-4">Vehicle</div>
                                         </a>
                                     </div>
                                     <div class="col-6 col-md text-center">
-                                        <a href="javascript:;" class="text-decoration-none py-lg-4 py-4 d-block box rounded-10 bg-opacity-25 bg-lightpurple text-primary buttongroupmirror" data-loan="Equipment Loan">
+                                        <a href="javascript:;" class="text-decoration-none py-lg-4 py-4 d-block box rounded-10 bg-opacity-25 bg-lightpurple text-primary buttongroupmirror" data-loan="Truck Loan">
+                                            <?= renderImg("truck-loans.png", 'lib') ?>
+                                            <div class="fw-500 mt-4">Truck</div>
+                                        </a>
+                                    </div>
+                                    <div class="col-6 col-md text-center">
+                                        <a href="javascript:;" class="text-decoration-none  py-lg-4 py-4 d-block box rounded-10 bg-opacity-25 bg-lightpurple text-primary buttongroupmirror" data-loan="Machinery Loan">
                                             <?= renderImg("equipment-loan.png", 'lib') ?>
-                                            <div class="fw-500 mt-4">Equipment</div>
-                                        </a>
-                                    </div>
-                                    <div class="col-6 col-md text-center">
-                                        <a href="javascript:;" class="text-decoration-none  py-lg-4 py-4 d-block box rounded-10 bg-opacity-25 bg-lightpurple text-primary buttongroupmirror" data-loan="Personal Loan">
-                                            <?= renderImg("personal-loan.png", 'lib') ?>
-                                            <div class="fw-500 mt-4 ">Personal</div>
+                                            <div class="fw-500 mt-4 ">Machinery</div>
                                         </a>
                                     </div>
                                     <div class="col-6 col-md text-center">
@@ -331,9 +331,9 @@
                                         </a>
                                     </div>
                                     <div class="col-6 col-md text-center">
-                                        <a href="javascript:;" class="text-decoration-none py-lg-4 py-4 d-block box rounded-10 bg-opacity-25 bg-lightpurple text-primary buttongroupmirror" data-loan="Home Loan">
-                                            <?= renderImg("home-loan.png", 'lib') ?>
-                                            <div class="fw-500 mt-4 ">Home</div>
+                                        <a href="javascript:;" class="text-decoration-none py-lg-4 py-4 d-block box rounded-10 bg-opacity-25 bg-lightpurple text-primary buttongroupmirror" data-loan="Trailer Loan">
+                                            <?= renderImg("trailer-loans.png", 'lib') ?>
+                                            <div class="fw-500 mt-4 ">Trailer</div>
                                         </a>
                                     </div>
                                 </div>

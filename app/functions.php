@@ -2,12 +2,13 @@
 include __DIR__ . '/env.php';
 
 $site = "Compare Machinery";
-$phone_number = "0432 406 340";
-$admin_email = 'arijal@aiims.com.au';
-$bcc_email = "";
-$no_reply_email = 'info@website.com.au';
+$phone_number = "1300 096 278";
+$admin_email = 'arijal@aiims.com.au'; // 'info@assetfinanceshop.com';
+$bcc_email = ''; //'kalbassit@aiims.com.au';
+$no_reply_email = 'info@assetfinanceshop.com';
 $recaptcha_client_secret = $client_secret;
 $recaptcha_server_secret = $server_secret;
+$pageRef = "https://$_SERVER[HTTP_HOST]$_SERVER[REQUEST_URI]";
 
 $application_page = false;
 
